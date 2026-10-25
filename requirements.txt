@@ -1,0 +1,9 @@
+# Recorded inference and shared geometry-scoring environment; Windows Python3.9.1.
+# Install CGAL separately under .external_baselines/cgal601 or use --cgal-path.
+numpy==2.0.2
+scipy==1.13.1
+torch==2.8.0
+scikit-learn==1.6.1
+joblib==1.5.3
+threadpoolctl==3.6.0
+trimesh==4.12.2
